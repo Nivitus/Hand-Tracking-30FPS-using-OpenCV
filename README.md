@@ -47,7 +47,7 @@ Some of the major applications of MediaPipe.
 
 ## Libraries Used 
 
-[![Alt Text](Images/10.JPG)]
+[![Alt Text](Images/mo.JPG)]
 
 ## Code Snippets
 
@@ -108,7 +108,7 @@ There is no Deployment now, maybe in the future this project definitely gonna de
 
 ## Team
 
-![](Images/Niv.JPG)
+![](Images/nivi.JPG)
 
 
 
