@@ -12,6 +12,9 @@
 
 ## Overview 
 OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it is used for image and video processing. This project all about Hand Tracking in real time using OpenCV. In this Hand Tracking project, we’ve built a hand gesture recognizer using OpenCV and python. We’ve used MediaPipe and Tensorflow framework for the detection and gesture recognition respectively. Here we’ve learned about the basics of the Neural Network, File handling, some common image processing techniques, etc.
+
+![Hand_Tracking](Images/hand.gif)
+
 ## Motivation 
 What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time Gardening, Games, Movies, Coding and read some stories as well as read some of the trending AI Papers through the Google. When i heard about the Iris Flowers Classification i could find my own interset to making this model. So i retrive the dataset form kaggle and making this idea come true.
 
