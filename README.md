@@ -15,7 +15,7 @@ OpenCV is a library used for computer vision applications. With help of OpenCV, 
 ![Hand_Tracking](Images/hand.gif)
 
 ## Motivation 
-The motivation for developing computer vision projects is the human vision system which is richest sense that we have. I heard about omplex cameras are being integrated into many devices (Smartphones how have cameras producing depth images as well as colour images, wide angle cameras are being integrated into cars so that a birds-eye image can be created, cameras are appearing in smart glasses, ...), and this in turn is pushing the development of progressively more complex vision systems. SO that is big mmotivation to me for learning opencv and basics of computer vision projects.
+The motivation for developing computer vision projects is the human vision system which is richest sense that we have. I heard about omplex cameras are being integrated into many devices (Smartphones how have cameras producing depth images as well as colour images, wide angle cameras are being integrated into cars so that a birds-eye image can be created, cameras are appearing in smart glasses) and this in turn is pushing the development of progressively more complex vision systems. SO that is big mmotivation to me for learning opencv and basics of computer vision projects.
 
 ## Installation 
 The Code is written in Python 3.7. If you don't have Python installed just [clik here](https://www.python.org/downloads/) and install python on your system. 
