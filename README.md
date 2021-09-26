@@ -3,7 +3,7 @@
 - [Overview](#overview) 
 - [Motivation](#motivation) 
 - [Installation](#installation) 
-- [About the MediaPipe](#about-the-data) 
+- [About the MediaPipe](#about-the-mediapipe) 
 - [Libraries Used](#libraries-used) 
 - [Code Snippets](#code-snippets)
 - [Deployment](#deployment)  
@@ -104,6 +104,7 @@ while True:
 ```
 ## Deployment 
 
+There is no Deployment now, maybe in the future this project definitely gonna deploy.
 
 ## Team
 
